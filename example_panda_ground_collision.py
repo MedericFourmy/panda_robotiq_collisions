@@ -7,9 +7,8 @@ from pinocchio.visualize import MeshcatVisualizer
 
 """
 TODO: 
-- remove self collisions
-- display robot semi transparent
 - refine the obstacles definitions
+- refactor
 """
 
 
